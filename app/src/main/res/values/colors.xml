@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="primary">#2196F3</color>
-    <color name="gray_light">#ffdbdbdb</color>
+    <color name="purple_200">#FFCC99FF</color>  <!-- Slightly lighter shade -->
+    <color name="purple_500">#FF9933FF</color>  <!-- Adjusted for better contrast -->
+    <color name="purple_700">#FF6600FF</color>  <!-- Darker and more vibrant -->
+    <color name="teal_200">#FF66FFCC</color>    <!-- Slightly lighter shade -->
+    <color name="teal_700">#FF33CC99</color>    <!-- Darker and more vibrant -->
+    <color name="black">#FF1A1A1A</color>       <!-- Slightly off-black for better matching -->
+    <color name="white">#FFFFFFFF</color>       <!-- Keeping white as it is -->
+    <color name="primary">#E0777D</color>       <!-- Keeping the same -->
+    <color name="gray_light">#FFD9D9D9</color>  <!-- Slightly adjusted for better cohesion -->
 </resources>
